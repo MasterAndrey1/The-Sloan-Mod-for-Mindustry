@@ -1,19 +1,19 @@
 name: Electrum Drill
-description: A very strange drill.
+description: A very strong drill
 type: Drill
 size: 3
 tier: 2
-drillTime: 250
+drillTime: 230
 consumes: {
   power: 3
   liquid: {
-    liquid: molten-silver
-    amount: 0.1
+    liquid: water
+    amount: 0.15
     booster: true
   }
 }
 requirements: [
-  electrum/80
+  sloanium/80
   silicon/40
   graphite/20
 ]
